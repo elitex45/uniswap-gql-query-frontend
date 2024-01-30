@@ -1,5 +1,5 @@
 {
-  "name": "interface",
+  "name": "uniswap-gql-query-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
